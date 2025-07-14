@@ -5,6 +5,7 @@ Detección de idiomas utilizando Europarl Parallel Corpus con modelos de aprendi
 # Detección Automática de Idiomas con Europarl Parallel Corpus
 
 Este proyecto tiene como objetivo la detección automática del idioma en textos del **Europarl Parallel Corpus**, aplicando técnicas de procesamiento de lenguaje natural (PLN) y modelos de clasificación supervisados. El trabajo se centra en distinguir entre siete idiomas europeos: español, portugués, francés, inglés, alemán, lituano y polaco.
+Nota: Para acceder a los datos en crudo debe descargárselo en el siguiente enlace. [Europarl Parallel Corpus](https://www.statmt.org/europarl/)
 
 ## Índice
 
